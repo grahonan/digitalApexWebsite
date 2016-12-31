@@ -1,3 +1,5 @@
+<title>Contact</title>
+<link rel="icon" type="image/png" href="img/favicon.png">
 <?php
  
 if(isset($_POST['email'])) {
