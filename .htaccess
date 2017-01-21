@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.digitalapex.net [NC]
+RewriteRule ^(.*)$ https://digitalapex.net [L,R=301]
