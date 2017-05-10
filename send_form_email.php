@@ -165,7 +165,7 @@ p {
 
 <body>
 <p>
-<span id="centeredContent">Thank you for contacting us. If follow up is needed, we will be in touch very soon. <br><br><a href="http://example.com/">Click here if your browser isn't automatically redirected.</a></span>
+<span id="centeredContent">Thank you for contacting us. If follow up is needed, we will be in touch very soon. <br><br><a href="http://digitalapex.net/">Click here if your browser isn't automatically redirected.</a></span>
 </p>
 <meta http-equiv="refresh" content="4; url=http://digitalapex.net" />
 </body> 
